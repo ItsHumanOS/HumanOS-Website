@@ -1,0 +1,33 @@
+{
+  "name": "humanos-website",
+  "version": "0.0.1-beta",
+  "description": "no idea why",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xX-MoonWalker-Xx/HumanOS.git"
+  },
+  "keywords": [
+    "humanos",
+    "human",
+    "os"
+  ],
+  "author": "HumanOS Inc",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/xX-MoonWalker-Xx/HumanOS/issues"
+  },
+  "homepage": "https://github.com/xX-MoonWalker-Xx/HumanOS#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-ejs-layouts": "^2.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
